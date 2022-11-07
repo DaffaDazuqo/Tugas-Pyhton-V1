@@ -37,11 +37,11 @@ print ("Float :", a/b)
 
 # Soal 4: Tipe Data
 usia = "16 Tahun"
-Daffa = "Usiaku"
+Daffa = "Usiaku :"
 
 print (
     "Tipe Data : "
+)
+print (
     '{} {}'.format(Daffa, usia)
 )
-
-
